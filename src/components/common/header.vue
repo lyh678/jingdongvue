@@ -14,7 +14,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 body {
     font: 12px/150% Arial,Verdana,"\5b8b\4f53";
 }
